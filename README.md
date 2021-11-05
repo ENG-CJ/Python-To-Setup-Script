@@ -8,7 +8,7 @@ cx_Freeze creates standalone executables from Python scripts, with the same perf
 In a virtual environment, install by issuing the command:
 First Upgrade Your Pip Package To Upgrade Type This Comamnd In Cmd
 
-> python -m pip install --upgrade pip
+> python -m pip install --upgrade pip <br>
 Steps To Download Cx_feeze
 in Command Prompt WWrite This Steps
 
